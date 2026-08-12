@@ -1,0 +1,46 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="760" height="56" viewBox="0 0 760 56" role="img" aria-label="Animated mission line">
+  <defs>
+    <clipPath id="clip">
+      <rect x="0" y="8" width="720" height="40"/>
+    </clipPath>
+    <style>
+      .line {
+        font-family: ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, 'Liberation Mono', monospace;
+        font-size: 20px;
+        fill: #e2e8f0;
+      }
+    </style>
+  </defs>
+  <rect width="760" height="56" fill="transparent"/>
+  <g clip-path="url(#clip)">
+    <!-- Line 1 -->
+    <text class="line" x="0" y="36" opacity="0">Building AI-powered business systems.
+      <animate attributeName="opacity"
+        values="0;1;1;0;0;0;0;0"
+        keyTimes="0;0.04;0.28;0.32;0.33;0.66;0.99;1"
+        dur="15s" repeatCount="indefinite"/>
+    </text>
+    <!-- Line 2 -->
+    <text class="line" x="0" y="36" opacity="0">Automating operations.
+      <animate attributeName="opacity"
+        values="0;0;0;0;1;1;0;0;0"
+        keyTimes="0;0.30;0.32;0.34;0.38;0.58;0.62;0.63;1"
+        dur="15s" repeatCount="indefinite"/>
+    </text>
+    <!-- Line 3 -->
+    <text class="line" x="0" y="36" opacity="0">Shipping products.
+      <animate attributeName="opacity"
+        values="0;0;0;0;0;0;1;1;0;0"
+        keyTimes="0;0.55;0.60;0.62;0.64;0.66;0.70;0.92;0.96;1"
+        dur="15s" repeatCount="indefinite"/>
+    </text>
+  </g>
+  <!-- Cursor -->
+  <rect y="14" width="2.5" height="26" fill="#60a5fa">
+    <animate attributeName="opacity" values="1;0;1" dur="1.05s" repeatCount="indefinite"/>
+    <animate attributeName="x"
+      values="8;392;392;8;230;230;8;188;188;8"
+      keyTimes="0;0.28;0.32;0.33;0.58;0.62;0.63;0.92;0.96;1"
+      dur="15s" repeatCount="indefinite"/>
+  </rect>
+</svg>
