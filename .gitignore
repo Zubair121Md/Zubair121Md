@@ -1,3 +1,6 @@
+node_modules/
+package-lock.json
+package.json
 .DS_Store
 *.log
 .env
@@ -5,4 +8,3 @@
 !.env.example
 .idea/
 .vscode/
-node_modules/

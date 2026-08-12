@@ -1,80 +1,49 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="980" height="120" viewBox="0 0 980 120" role="img" aria-label="Founder operating metrics">
+<svg xmlns="http://www.w3.org/2000/svg" width="980" height="120" viewBox="0 0 980 120" role="img" aria-label="Founder metrics">
   <defs>
-    <style>
-      .label { font-family: ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, monospace; font-size: 10px; fill: #64748b; letter-spacing: 1.8px; }
-      .value { font-family: ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, monospace; font-size: 26px; fill: #f8fafc; font-weight: 700; }
-      .unit  { font-family: ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, monospace; font-size: 11px; fill: #94a3b8; }
-    </style>
-    <linearGradient id="cardEdge" x1="0" y1="0" x2="0" y2="1">
+    <linearGradient id="edge" x1="0" y1="0" x2="0" y2="1">
       <stop offset="0%" stop-color="#334155" stop-opacity="0.9"/>
       <stop offset="100%" stop-color="#1e293b" stop-opacity="0.4"/>
     </linearGradient>
   </defs>
+  <rect width="980" height="120" fill="transparent"/>
 
-  <!-- Cards -->
-  <g>
-    <rect x="0"   y="8" width="150" height="104" rx="8" fill="#0b1220" stroke="url(#cardEdge)" stroke-width="1"/>
-    <rect x="166" y="8" width="150" height="104" rx="8" fill="#0b1220" stroke="url(#cardEdge)" stroke-width="1"/>
-    <rect x="332" y="8" width="150" height="104" rx="8" fill="#0b1220" stroke="url(#cardEdge)" stroke-width="1"/>
-    <rect x="498" y="8" width="150" height="104" rx="8" fill="#0b1220" stroke="url(#cardEdge)" stroke-width="1"/>
-    <rect x="664" y="8" width="150" height="104" rx="8" fill="#0b1220" stroke="url(#cardEdge)" stroke-width="1"/>
-    <rect x="830" y="8" width="150" height="104" rx="8" fill="#0b1220" stroke="url(#cardEdge)" stroke-width="1"/>
+  <rect x="0" y="8" width="150" height="104" rx="8" fill="#0b1220" stroke="url(#edge)" stroke-width="1"/>
+  <rect x="166" y="8" width="150" height="104" rx="8" fill="#0b1220" stroke="url(#edge)" stroke-width="1"/>
+  <rect x="332" y="8" width="150" height="104" rx="8" fill="#0b1220" stroke="url(#edge)" stroke-width="1"/>
+  <rect x="498" y="8" width="150" height="104" rx="8" fill="#0b1220" stroke="url(#edge)" stroke-width="1"/>
+  <rect x="664" y="8" width="150" height="104" rx="8" fill="#0b1220" stroke="url(#edge)" stroke-width="1"/>
+  <rect x="830" y="8" width="150" height="104" rx="8" fill="#0b1220" stroke="url(#edge)" stroke-width="1"/>
 
-    <!-- accent pulses -->
-    <rect x="0" y="8" width="3" height="104" rx="1" fill="#3b82f6">
-      <animate attributeName="opacity" values="0.45;1;0.45" dur="2.4s" repeatCount="indefinite"/>
-    </rect>
-    <rect x="166" y="8" width="3" height="104" rx="1" fill="#3b82f6" opacity="0.55">
-      <animate attributeName="opacity" values="0.35;0.9;0.35" dur="2.8s" repeatCount="indefinite"/>
-    </rect>
-    <rect x="332" y="8" width="3" height="104" rx="1" fill="#3b82f6" opacity="0.55">
-      <animate attributeName="opacity" values="0.4;1;0.4" dur="3.1s" repeatCount="indefinite"/>
-    </rect>
-    <rect x="498" y="8" width="3" height="104" rx="1" fill="#3b82f6" opacity="0.55">
-      <animate attributeName="opacity" values="0.3;0.85;0.3" dur="2.6s" repeatCount="indefinite"/>
-    </rect>
-    <rect x="664" y="8" width="3" height="104" rx="1" fill="#3b82f6" opacity="0.55">
-      <animate attributeName="opacity" values="0.35;0.95;0.35" dur="3.4s" repeatCount="indefinite"/>
-    </rect>
-    <rect x="830" y="8" width="3" height="104" rx="1" fill="#3b82f6" opacity="0.55">
-      <animate attributeName="opacity" values="0.4;1;0.4" dur="2.9s" repeatCount="indefinite"/>
-    </rect>
+  <rect x="0" y="8" width="3" height="104" rx="1" fill="#3b82f6"/>
+  <rect x="166" y="8" width="3" height="104" rx="1" fill="#3b82f6"/>
+  <rect x="332" y="8" width="3" height="104" rx="1" fill="#3b82f6"/>
+  <rect x="498" y="8" width="3" height="104" rx="1" fill="#3b82f6"/>
+  <rect x="664" y="8" width="3" height="104" rx="1" fill="#3b82f6"/>
+  <rect x="830" y="8" width="3" height="104" rx="1" fill="#3b82f6"/>
+
+  <g font-family="ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, monospace">
+    <text x="18" y="36" fill="#64748b" font-size="10" letter-spacing="1.8">STARTUP</text>
+    <text x="18" y="72" fill="#f8fafc" font-size="26" font-weight="700">1</text>
+    <text x="18" y="96" fill="#94a3b8" font-size="11">founded</text>
+
+    <text x="184" y="36" fill="#64748b" font-size="10" letter-spacing="1.8">INTERNS</text>
+    <text x="184" y="72" fill="#f8fafc" font-size="26" font-weight="700">30+</text>
+    <text x="184" y="96" fill="#94a3b8" font-size="11">coordinated</text>
+
+    <text x="350" y="36" fill="#64748b" font-size="10" letter-spacing="1.8">SIGNALS</text>
+    <text x="350" y="72" fill="#f8fafc" font-size="26" font-weight="700">500+</text>
+    <text x="350" y="96" fill="#94a3b8" font-size="11">analyzed</text>
+
+    <text x="516" y="36" fill="#64748b" font-size="10" letter-spacing="1.8">APPS</text>
+    <text x="516" y="72" fill="#f8fafc" font-size="26" font-weight="700">6+</text>
+    <text x="516" y="96" fill="#94a3b8" font-size="11">deployed</text>
+
+    <text x="682" y="36" fill="#64748b" font-size="10" letter-spacing="1.8">AI FLOWS</text>
+    <text x="682" y="72" fill="#f8fafc" font-size="26" font-weight="700">LIVE</text>
+    <text x="682" y="96" fill="#94a3b8" font-size="11">automation</text>
+
+    <text x="848" y="36" fill="#64748b" font-size="10" letter-spacing="1.8">FOCUS</text>
+    <text x="848" y="72" fill="#f8fafc" font-size="26" font-weight="700">BA</text>
+    <text x="848" y="96" fill="#94a3b8" font-size="11">+ ERP</text>
   </g>
-
-  <!-- Values -->
-  <text class="label" x="18" y="36">STARTUP</text>
-  <text class="value" x="18" y="72" opacity="0">1
-    <animate attributeName="opacity" values="0;1" dur="0.8s" fill="freeze"/>
-  </text>
-  <text class="unit" x="18" y="96">founded</text>
-
-  <text class="label" x="184" y="36">INTERNS</text>
-  <text class="value" x="184" y="72" opacity="0">30+
-    <animate attributeName="opacity" values="0;1" dur="0.8s" begin="0.15s" fill="freeze"/>
-  </text>
-  <text class="unit" x="184" y="96">coordinated</text>
-
-  <text class="label" x="350" y="36">LEADS</text>
-  <text class="value" x="350" y="72" opacity="0">500+
-    <animate attributeName="opacity" values="0;1" dur="0.8s" begin="0.3s" fill="freeze"/>
-  </text>
-  <text class="unit" x="350" y="96">managed</text>
-
-  <text class="label" x="516" y="36">APPS</text>
-  <text class="value" x="516" y="72" opacity="0">6+
-    <animate attributeName="opacity" values="0;1" dur="0.8s" begin="0.45s" fill="freeze"/>
-  </text>
-  <text class="unit" x="516" y="96">deployed</text>
-
-  <text class="label" x="682" y="36">AI FLOWS</text>
-  <text class="value" x="682" y="72" opacity="0">LIVE
-    <animate attributeName="opacity" values="0;1" dur="0.8s" begin="0.6s" fill="freeze"/>
-  </text>
-  <text class="unit" x="682" y="96">automation</text>
-
-  <text class="label" x="848" y="36">FOCUS</text>
-  <text class="value" x="848" y="72" opacity="0">BA
-    <animate attributeName="opacity" values="0;1" dur="0.8s" begin="0.75s" fill="freeze"/>
-  </text>
-  <text class="unit" x="848" y="96">+ ERP</text>
 </svg>

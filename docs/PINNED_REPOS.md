@@ -10,14 +10,14 @@ Outreach / LinkedIn poster / B2B growth tools are **not** pinned.
 
 ## Recommended pin order (exactly 6)
 
-| # | Pin name (public) | Why this slot | Current / target repo |
-|:-:|:------------------|:--------------|:----------------------|
-| 1 | **AI Systems** | Primary identity — AI for business decisions. | Create `ai-systems` or flagship AI BA product |
-| 2 | **Business Analyst OS** | BA signal — requirements → models → decisions. | BI / analyst tooling (new or from MIA BI work) |
-| 3 | **ERP Automation** | Operational depth — real enterprise workflows. | [`ERP-for-hybrid-agribusiness`](https://github.com/Zubair121Md/ERP-for-hybrid-agribusiness) |
-| 4 | **AI Platform / Ops AI** | Second AI proof — applied AI beyond one product. | [`Buildconnect`](https://github.com/Zubair121Md/Buildconnect) or pharmacy AI layer |
-| 5 | **Research** | Systems thinking — notes, architecture, essays. | Create `research` |
-| 6 | **Analytics** | Decision layer last — metrics without vanity. | [`pharmacy-revenue-app`](https://github.com/Zubair121Md/pharmacy-revenue-app) |
+| # | Pin name (public) | Why this slot | Pin this repo |
+|:-:|:------------------|:--------------|:----------------|
+| 1 | **AI / Analytics** | Primary AI + decision signal. | [`pharmacy-revenue-app`](https://github.com/Zubair121Md/pharmacy-revenue-app) |
+| 2 | **Applied AI** | Product AI in marketplaces / ops. | [`Buildconnect`](https://github.com/Zubair121Md/Buildconnect) |
+| 3 | **ERP Automation** | Operational depth. | [`ERP-for-hybrid-agribusiness`](https://github.com/Zubair121Md/ERP-for-hybrid-agribusiness) |
+| 4 | **B2B / BA systems** | Business workflows live. | [`B2B`](https://github.com/Zubair121Md/B2B) |
+| 5 | **Ops tooling** | ERP-adjacent field ops. | [`ppf-qr`](https://github.com/Zubair121Md/ppf-qr) |
+| 6 | **Campus / portfolio** | Delivery + design taste. | [`Student-System`](https://github.com/Zubair121Md/Student-System) |
 
 ---
 
@@ -49,12 +49,20 @@ Each pinned repo should use [`templates/REPO_README_TEMPLATE.md`](../templates/R
 
 | Narrative product | Best existing signal today |
 |:------------------|:---------------------------|
-| AI Systems | New public repo + profile case study |
-| Business Analyst OS | MIA BI work · dashboards · requirements tooling |
-| ERP Automation | `ERP-for-hybrid-agribusiness` |
-| AI Platform | `Buildconnect`, `pharmacy-revenue-app` AI layers |
-| Research | New `research` repo |
+| AI Systems | `pharmacy-revenue-app`, `Buildconnect` |
+| Business Analyst OS | MIA BI · dashboards · [miasolutions.in](https://miasolutions.in) |
+| ERP Automation | `ERP-for-hybrid-agribusiness`, `ppf-qr` |
+| Applied AI | `Buildconnect`, `B2B` |
+| Research | Architecture notes in product READMEs |
 | Analytics | `pharmacy-revenue-app` |
+
+### Live demos to keep in pins / README
+
+| Live | URL |
+|:-----|:----|
+| MIA Solutions | https://miasolutions.in |
+| B2B | https://b2-b-sooty.vercel.app |
+| PPF QR | https://ppf-qr.vercel.app |
 
 ---
 

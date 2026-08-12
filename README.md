@@ -7,11 +7,11 @@
 
 <div align="center">
 
-  <img src="./assets/banner.svg" alt="Zubair Mohammed Ishaq — Founder @ MIA Solutions" width="100%" />
+  <img src="https://raw.githubusercontent.com/Zubair121Md/Zubair121Md/main/assets/banner.png" alt="Zubair Mohammed Ishaq — Founder @ MIA Solutions" width="100%" />
 
-  <br/>
+  <br/><br/>
 
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=22&duration=3200&pause=900&color=E2E8F0&center=true&vCenter=true&multiline=true&repeat=true&width=720&height=100&lines=Building+AI+for+business+decisions.;Designing+ERP+%26+analysis+systems.;Shipping+operational+products." alt="Building AI for business decisions. Designing ERP and analysis systems. Shipping operational products." />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=22&duration=3200&pause=900&color=E2E8F0&center=true&vCenter=true&multiline=true&repeat=true&width=720&height=100&lines=Building+AI+for+business+decisions.;Designing+ERP+%26+analysis+systems.;Shipping+operational+products." alt="Building AI for business decisions." />
 
   <br/>
 
@@ -30,7 +30,7 @@
     <img src="https://img.shields.io/badge/FOCUS-AI_%7C_BA_%7C_ERP-0f172a?style=flat-square&labelColor=020617&color=475569" alt="Focus: AI | BA | ERP"/>
   </p>
 
-  <img src="./assets/separator.svg" alt="" width="720" />
+  <img src="https://raw.githubusercontent.com/Zubair121Md/Zubair121Md/main/assets/separator.png" alt="" width="720" />
 
 </div>
 
@@ -48,11 +48,11 @@ I enjoy solving operational bottlenecks with software — connecting data, analy
 priority  →  AI  ›  Business Analysis  ›  ERP  ›  Research  ›  Analytics
 identity  →  founder · analyst · builder · operator · engineer
 mode      →  ship fast · measure · iterate · document
-output    →  AI systems · ERP systems · decision infrastructure
+output    →  AI products · ERP systems · decision infrastructure
 ```
 
 <div align="center">
-  <img src="./assets/separator.svg" alt="" width="720" />
+  <img src="https://raw.githubusercontent.com/Zubair121Md/Zubair121Md/main/assets/separator.png" alt="" width="720" />
 </div>
 
 ---
@@ -77,7 +77,7 @@ output    →  AI systems · ERP systems · decision infrastructure
 ```
 
 <div align="center">
-  <img src="./assets/separator.svg" alt="" width="720" />
+  <img src="https://raw.githubusercontent.com/Zubair121Md/Zubair121Md/main/assets/separator.png" alt="" width="720" />
 </div>
 
 ---
@@ -100,7 +100,7 @@ priority        · AI › BA › ERP › research › analytics
 ```
 
 <div align="center">
-  <img src="./assets/separator.svg" alt="" width="720" />
+  <img src="https://raw.githubusercontent.com/Zubair121Md/Zubair121Md/main/assets/separator.png" alt="" width="720" />
 </div>
 
 ---
@@ -108,20 +108,20 @@ priority        · AI › BA › ERP › research › analytics
 ## Founder Metrics
 
 <div align="center">
-  <img src="./assets/metrics.svg" alt="Founder metrics" width="880" />
+  <img src="https://raw.githubusercontent.com/Zubair121Md/Zubair121Md/main/assets/metrics.png" alt="Founder metrics" width="880" />
 </div>
 
 | Signal | Value | Context |
 |:-------|:------|:--------|
 | Startup founded | **1** | MIA Solutions |
 | Interns coordinated | **30+** | Hiring · mentoring · delivery |
-| Business processes analyzed | **500+** leads & ops signals managed | Analysis → system design |
+| Business processes analyzed | **500+** | Leads & ops signals → system design |
 | Applications deployed | **Multiple** | AI · ERP · analytics · tools |
 | AI systems for BA / ops | **Built** | Decision support · automation |
 | ERP systems designed | **Active** | Workflows · cost · inventory |
 
 <div align="center">
-  <img src="./assets/separator.svg" alt="" width="720" />
+  <img src="https://raw.githubusercontent.com/Zubair121Md/Zubair121Md/main/assets/separator.png" alt="" width="720" />
 </div>
 
 ---
@@ -137,9 +137,9 @@ Turn fragmented business data into structured analysis — requirements, scoring
 | | |
 |:--|:--|
 | **Stack** | Python · LLMs · FastAPI · PostgreSQL · React |
-| **Architecture** | [Case study below](#case-study--ai-for-business-analysis--erp) |
-| **Demo** | `Coming soon` |
-| **GitHub** | `github.com/Zubair121Md/ai-systems` |
+| **Architecture** | [Case study](#case-study--ai-for-business-analysis--erp) |
+| **Live** | [miasolutions.in](https://miasolutions.in) |
+| **Repos** | [`pharmacy-revenue-app`](https://github.com/Zubair121Md/pharmacy-revenue-app) · [`Buildconnect`](https://github.com/Zubair121Md/Buildconnect) |
 
 ---
 
@@ -153,8 +153,8 @@ Connect operational steps across inventory, finance, and delivery so teams stop 
 |:--|:--|
 | **Stack** | Python · FastAPI · PostgreSQL · Redis · job queues |
 | **Architecture** | Event-driven workflows · cron · API orchestration |
-| **Demo** | `Coming soon` |
-| **GitHub** | [`ERP-for-hybrid-agribusiness`](https://github.com/Zubair121Md/ERP-for-hybrid-agribusiness) |
+| **Live** | [ppf-qr.vercel.app](https://ppf-qr.vercel.app) |
+| **Repo** | [`ERP-for-hybrid-agribusiness`](https://github.com/Zubair121Md/ERP-for-hybrid-agribusiness) · [`ppf-qr`](https://github.com/Zubair121Md/ppf-qr) |
 
 ---
 
@@ -168,8 +168,8 @@ Embed assistive AI into operational software: estimates, classification, anomaly
 |:--|:--|
 | **Stack** | TypeScript · Python · React · FastAPI · AI workflows |
 | **Architecture** | Capture → infer → review → write-back → audit |
-| **Demo** | [`Buildconnect`](https://github.com/Zubair121Md/Buildconnect) |
-| **GitHub** | [`Buildconnect`](https://github.com/Zubair121Md/Buildconnect) · [`pharmacy-revenue-app`](https://github.com/Zubair121Md/pharmacy-revenue-app) |
+| **Live** | [b2-b-sooty.vercel.app](https://b2-b-sooty.vercel.app) |
+| **Repos** | [`Buildconnect`](https://github.com/Zubair121Md/Buildconnect) · [`B2B`](https://github.com/Zubair121Md/B2B) |
 
 ---
 
@@ -181,13 +181,27 @@ Research documents how systems should work. Analytics surfaces revenue, pipeline
 
 | | |
 |:--|:--|
-| **Stack** | React · FastAPI · PostgreSQL · Redis · Mermaid docs |
-| **Architecture** | Ingest → transform → metrics layer → UI · published notes |
-| **Demo** | `Coming soon` |
-| **GitHub** | [`pharmacy-revenue-app`](https://github.com/Zubair121Md/pharmacy-revenue-app) |
+| **Stack** | React · FastAPI · PostgreSQL · Redis |
+| **Architecture** | Ingest → transform → metrics layer → UI |
+| **Live** | [miasolutions.in](https://miasolutions.in) |
+| **Repo** | [`pharmacy-revenue-app`](https://github.com/Zubair121Md/pharmacy-revenue-app) · [`Student-System`](https://github.com/Zubair121Md/Student-System) |
 
 <div align="center">
-  <img src="./assets/separator.svg" alt="" width="720" />
+  <img src="https://raw.githubusercontent.com/Zubair121Md/Zubair121Md/main/assets/separator.png" alt="" width="720" />
+</div>
+
+---
+
+## Live Systems
+
+| System | URL |
+|:-------|:----|
+| **MIA Solutions** | [miasolutions.in](https://miasolutions.in) |
+| **B2B platform** | [b2-b-sooty.vercel.app](https://b2-b-sooty.vercel.app) |
+| **PPF QR / ops** | [ppf-qr.vercel.app](https://ppf-qr.vercel.app) |
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/Zubair121Md/Zubair121Md/main/assets/separator.png" alt="" width="720" />
 </div>
 
 ---
@@ -241,14 +255,12 @@ Data → Business Analysis → AI Assist → ERP → Automation → Analytics �
 - Analytics only matter if they change a decision this week  
 
 <div align="center">
-  <img src="./assets/separator.svg" alt="" width="720" />
+  <img src="https://raw.githubusercontent.com/Zubair121Md/Zubair121Md/main/assets/separator.png" alt="" width="720" />
 </div>
 
 ---
 
 ## Systems I’ve Built
-
-Systems thinking over feature lists. Each item below is an operating capability, not a toy project.
 
 | System | What it does |
 |:-------|:-------------|
@@ -266,7 +278,7 @@ principle · if analysis repeats weekly, it should become software
 ```
 
 <div align="center">
-  <img src="./assets/separator.svg" alt="" width="720" />
+  <img src="https://raw.githubusercontent.com/Zubair121Md/Zubair121Md/main/assets/separator.png" alt="" width="720" />
 </div>
 
 ---
@@ -323,7 +335,7 @@ principle · if analysis repeats weekly, it should become software
 - Documentation as an operating asset  
 
 <div align="center">
-  <img src="./assets/separator.svg" alt="" width="720" />
+  <img src="https://raw.githubusercontent.com/Zubair121Md/Zubair121Md/main/assets/separator.png" alt="" width="720" />
 </div>
 
 ---
@@ -331,37 +343,25 @@ principle · if analysis repeats weekly, it should become software
 ## GitHub Analytics
 
 <div align="center">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Zubair121Md&show_icons=true&include_all_commits=true&count_private=true&theme=dark&hide_border=true&bg_color=0D1117&title_color=E2E8F0&text_color=94A3B8&icon_color=60A5FA&ring_color=3B82F6" alt="GitHub stats" />
+  &nbsp;
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Zubair121Md&layout=compact&langs_count=6&theme=dark&hide_border=true&bg_color=0D1117&title_color=E2E8F0&text_color=94A3B8" alt="Top languages" />
+</div>
 
-  <img height="160" src="https://github-readme-stats.vercel.app/api?username=Zubair121Md&show_icons=true&include_all_commits=true&count_private=true&theme=transparent&hide_border=true&title_color=e2e8f0&text_color=94a3b8&icon_color=60a5fa&ring_color=3b82f6&cache_seconds=1800" alt="GitHub stats" />
-  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Zubair121Md&layout=compact&langs_count=6&theme=transparent&hide_border=true&title_color=e2e8f0&text_color=94a3b8&cache_seconds=1800" alt="Top languages" />
+<br/>
 
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=Zubair121Md&theme=dark&hide_border=true&background=0D1117&ring=3B82F6&fire=60A5FA&currStreakLabel=94A3B8&sideLabels=64748B&dates=475569&currStreakNum=E2E8F0&sideNums=94A3B8" alt="GitHub streak" />
+</div>
+
+<br/>
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Zubair121Md&bg_color=0d1117&color=94a3b8&line=3b82f6&point=60a5fa&area=true&hide_border=true&custom_title=Contribution%20Activity" alt="Activity graph" width="100%" />
 </div>
 
 <div align="center">
-
-  <img src="https://streak-stats.demolab.com?user=Zubair121Md&theme=transparent&hide_border=true&ring=3b82f6&fire=60a5fa&currStreakLabel=94a3b8&sideLabels=64748b&dates=475569&currStreakNum=e2e8f0&sideNums=94a3b8&background=00000000" alt="GitHub streak" />
-
-</div>
-
-<div align="center">
-
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Zubair121Md&bg_color=00000000&color=94a3b8&line=3b82f6&point=60a5fa&area=true&hide_border=true&custom_title=Contribution%20Activity" alt="Activity graph" width="100%" />
-
-</div>
-
-<div align="center">
-
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Zubair121Md&theme=transparent" alt="Profile summary" width="100%" />
-
-</div>
-
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Zubair121Md&theme=transparent" alt="Repos per language" height="140" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Zubair121Md&theme=transparent" alt="Most commit language" height="140" />
-</p>
-
-<div align="center">
-  <img src="./assets/separator.svg" alt="" width="720" />
+  <img src="https://raw.githubusercontent.com/Zubair121Md/Zubair121Md/main/assets/separator.png" alt="" width="720" />
 </div>
 
 ---
@@ -381,14 +381,12 @@ ship → learn → write → ship again
 ```
 
 <div align="center">
-  <img src="./assets/separator.svg" alt="" width="720" />
+  <img src="https://raw.githubusercontent.com/Zubair121Md/Zubair121Md/main/assets/separator.png" alt="" width="720" />
 </div>
 
 ---
 
 ## Writing
-
-Notes from building — execution, systems, and AI in real operations.
 
 | Essay | Theme |
 |:------|:------|
@@ -401,27 +399,25 @@ Notes from building — execution, systems, and AI in real operations.
 > Writing lives alongside shipping. Drafts → public notes → product decisions.
 
 <div align="center">
-  <img src="./assets/separator.svg" alt="" width="720" />
+  <img src="https://raw.githubusercontent.com/Zubair121Md/Zubair121Md/main/assets/separator.png" alt="" width="720" />
 </div>
 
 ---
 
 ## Open Source
 
-Public work across the stack I use to run MIA Solutions:
-
 - AI systems for business analysis and decisions  
 - ERP utilities and workflow engines  
-- Developer tooling for faster delivery  
 - Analytics and BI experiments  
+- Developer tooling for faster delivery  
 - Internal productivity systems (campus, POS, ops)  
 
-Pinned repositories are curated for signal — **AI, BA, ERP, research, analytics** — not outreach noise.
+Pinned repositories prioritize **AI, BA, ERP, research, analytics**.
 
-See [`docs/PINNED_REPOS.md`](./docs/PINNED_REPOS.md) for the pin strategy.
+See [`docs/PINNED_REPOS.md`](./docs/PINNED_REPOS.md).
 
 <div align="center">
-  <img src="./assets/separator.svg" alt="" width="720" />
+  <img src="https://raw.githubusercontent.com/Zubair121Md/Zubair121Md/main/assets/separator.png" alt="" width="720" />
 </div>
 
 ---
@@ -467,7 +463,7 @@ See [`docs/PINNED_REPOS.md`](./docs/PINNED_REPOS.md) for the pin strategy.
 
 <div align="center">
 
-  <img src="./assets/separator.svg" alt="" width="720" />
+  <img src="https://raw.githubusercontent.com/Zubair121Md/Zubair121Md/main/assets/separator.png" alt="" width="720" />
 
   <p>
     <sub>
