@@ -7,7 +7,7 @@
 
 <div align="center">
 
-  <img src="https://raw.githubusercontent.com/Zubair121Md/Zubair121Md/main/assets/banner.png" alt="Zubair Mohammed Ishaq — Founder @ MIA Solutions" width="100%" />
+  <img src="./assets/banner.png" alt="Zubair Mohammed Ishaq — Founder @ MIA Solutions" width="100%" />
 
   <br/><br/>
 
@@ -30,7 +30,7 @@
     <img src="https://img.shields.io/badge/FOCUS-AI_%7C_BA_%7C_ERP-0f172a?style=flat-square&labelColor=020617&color=475569" alt="Focus: AI | BA | ERP"/>
   </p>
 
-  <img src="https://raw.githubusercontent.com/Zubair121Md/Zubair121Md/main/assets/separator.png" alt="" width="720" />
+  <img src="./assets/separator.png" alt="" width="720" />
 
 </div>
 
@@ -52,7 +52,7 @@ output    →  AI products · ERP systems · decision infrastructure
 ```
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/Zubair121Md/Zubair121Md/main/assets/separator.png" alt="" width="720" />
+  <img src="./assets/separator.png" alt="" width="720" />
 </div>
 
 ---
@@ -77,7 +77,7 @@ output    →  AI products · ERP systems · decision infrastructure
 ```
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/Zubair121Md/Zubair121Md/main/assets/separator.png" alt="" width="720" />
+  <img src="./assets/separator.png" alt="" width="720" />
 </div>
 
 ---
@@ -100,7 +100,7 @@ priority        · AI › BA › ERP › research › analytics
 ```
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/Zubair121Md/Zubair121Md/main/assets/separator.png" alt="" width="720" />
+  <img src="./assets/separator.png" alt="" width="720" />
 </div>
 
 ---
@@ -108,7 +108,7 @@ priority        · AI › BA › ERP › research › analytics
 ## Founder Metrics
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/Zubair121Md/Zubair121Md/main/assets/metrics.png" alt="Founder metrics" width="880" />
+  <img src="./assets/metrics.png" alt="Founder metrics" width="880" />
 </div>
 
 | Signal | Value | Context |
@@ -121,7 +121,7 @@ priority        · AI › BA › ERP › research › analytics
 | ERP systems designed | **Active** | Workflows · cost · inventory |
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/Zubair121Md/Zubair121Md/main/assets/separator.png" alt="" width="720" />
+  <img src="./assets/separator.png" alt="" width="720" />
 </div>
 
 ---
@@ -187,7 +187,7 @@ Research documents how systems should work. Analytics surfaces revenue, pipeline
 | **Repo** | [`pharmacy-revenue-app`](https://github.com/Zubair121Md/pharmacy-revenue-app) · [`Student-System`](https://github.com/Zubair121Md/Student-System) |
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/Zubair121Md/Zubair121Md/main/assets/separator.png" alt="" width="720" />
+  <img src="./assets/separator.png" alt="" width="720" />
 </div>
 
 ---
@@ -201,7 +201,7 @@ Research documents how systems should work. Analytics surfaces revenue, pipeline
 | **PPF QR / ops** | [ppf-qr.vercel.app](https://ppf-qr.vercel.app) |
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/Zubair121Md/Zubair121Md/main/assets/separator.png" alt="" width="720" />
+  <img src="./assets/separator.png" alt="" width="720" />
 </div>
 
 ---
@@ -255,7 +255,7 @@ Data → Business Analysis → AI Assist → ERP → Automation → Analytics �
 - Analytics only matter if they change a decision this week  
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/Zubair121Md/Zubair121Md/main/assets/separator.png" alt="" width="720" />
+  <img src="./assets/separator.png" alt="" width="720" />
 </div>
 
 ---
@@ -278,7 +278,7 @@ principle · if analysis repeats weekly, it should become software
 ```
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/Zubair121Md/Zubair121Md/main/assets/separator.png" alt="" width="720" />
+  <img src="./assets/separator.png" alt="" width="720" />
 </div>
 
 ---
@@ -335,33 +335,36 @@ principle · if analysis repeats weekly, it should become software
 - Documentation as an operating asset  
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/Zubair121Md/Zubair121Md/main/assets/separator.png" alt="" width="720" />
+  <img src="./assets/separator.png" alt="" width="720" />
 </div>
 
 ---
 
 ## GitHub Analytics
 
+Self-hosted snapshot (no third-party widgets).
+
 <div align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Zubair121Md&show_icons=true&include_all_commits=true&count_private=true&theme=dark&hide_border=true&bg_color=0D1117&title_color=E2E8F0&text_color=94A3B8&icon_color=60A5FA&ring_color=3B82F6" alt="GitHub stats" />
-  &nbsp;
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Zubair121Md&layout=compact&langs_count=6&theme=dark&hide_border=true&bg_color=0D1117&title_color=E2E8F0&text_color=94A3B8" alt="Top languages" />
+  <img src="./assets/analytics.png" alt="GitHub analytics for Zubair121Md" width="900" />
 </div>
 
 <br/>
 
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=Zubair121Md&theme=dark&hide_border=true&background=0D1117&ring=3B82F6&fire=60A5FA&currStreakLabel=94A3B8&sideLabels=64748B&dates=475569&currStreakNum=E2E8F0&sideNums=94A3B8" alt="GitHub streak" />
-</div>
+| Metric | Value |
+|:-------|:------|
+| Public repositories | **17** |
+| Contributions (this year) | **78** |
+| Primary languages | **Python** · **TypeScript** · JavaScript |
+| Focus | **AI** · **Business Analysis** · **ERP** |
+| Active since | **2020** |
 
-<br/>
+```text
+source · local assets/analytics.png
+note   · third-party stats hosts removed (unreliable / paused)
+```
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Zubair121Md&bg_color=0d1117&color=94a3b8&line=3b82f6&point=60a5fa&area=true&hide_border=true&custom_title=Contribution%20Activity" alt="Activity graph" width="100%" />
-</div>
-
-<div align="center">
-  <img src="https://raw.githubusercontent.com/Zubair121Md/Zubair121Md/main/assets/separator.png" alt="" width="720" />
+  <img src="./assets/separator.png" alt="" width="720" />
 </div>
 
 ---
@@ -381,7 +384,7 @@ ship → learn → write → ship again
 ```
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/Zubair121Md/Zubair121Md/main/assets/separator.png" alt="" width="720" />
+  <img src="./assets/separator.png" alt="" width="720" />
 </div>
 
 ---
@@ -399,7 +402,7 @@ ship → learn → write → ship again
 > Writing lives alongside shipping. Drafts → public notes → product decisions.
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/Zubair121Md/Zubair121Md/main/assets/separator.png" alt="" width="720" />
+  <img src="./assets/separator.png" alt="" width="720" />
 </div>
 
 ---
@@ -417,7 +420,7 @@ Pinned repositories prioritize **AI, BA, ERP, research, analytics**.
 See [`docs/PINNED_REPOS.md`](./docs/PINNED_REPOS.md).
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/Zubair121Md/Zubair121Md/main/assets/separator.png" alt="" width="720" />
+  <img src="./assets/separator.png" alt="" width="720" />
 </div>
 
 ---
@@ -463,7 +466,7 @@ See [`docs/PINNED_REPOS.md`](./docs/PINNED_REPOS.md).
 
 <div align="center">
 
-  <img src="https://raw.githubusercontent.com/Zubair121Md/Zubair121Md/main/assets/separator.png" alt="" width="720" />
+  <img src="./assets/separator.png" alt="" width="720" />
 
   <p>
     <sub>
